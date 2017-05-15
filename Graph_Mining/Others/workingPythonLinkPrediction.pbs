@@ -1,0 +1,29 @@
+#!/bin/bash
+#
+#PBS -l nodes=1:ppn=24,walltime=8:00:20
+#PBS -N spark-test
+#PBS -q normal_q
+
+#PBS -A LARRG_dae
+#PBS -W group_list=cascades
+
+#PBS -M pavanbv@vt.edu
+#PBS -m bea
+
+
+
+nodes=($( cat $PBS_NODEFILE | sort | uniq ))  
+nnodes=${#nodes[@]}  
+last=$(( $nnodes - 1 ))
+
+
+export WORK_DIR="${WORK}/groups/LAARG/Himanshu_m/"
+mkdir -p ${WORK_DIR}
+cd ${WORK_DIR}
+
+echo ${WORK_DIR}
+#module load matlab
+#matlab -nodisplay -nosplash < /groups/LAARG/Himanshu_m/exponential2.m > /groups/LAARG/Himanshu_m/run.log
+
+module load python
+python /groups/LAARG/Himanshu_m/feat_graph.py
