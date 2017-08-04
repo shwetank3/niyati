@@ -1,0 +1,180 @@
+<span class="new-badge-text-only live twiw">LIVE!</span>
+<span class="fi-list-wrap"><i class="fi-list"></i></span>
+<span class="new-badge-text-only live twiw">LIVE!</span>
+<span class="close-search">
+		<i class="fi-x-circle"></i>
+		</span>
+<span class="geolocate-wrap">
+		<i class="fi-target-two"></i>
+		</span>
+<span>1:53 AM IST on April 24, 2017</span>
+<span id="station-label">
+		<span class="station-type is-airport"></span>
+		<a href="/history/airport//2017/04/23/DailyHistory.html?req_city=New%20Delhi%20Safdarjung&amp;req_statename=India&amp;reqdb.zip=00000&amp;reqdb.magic=72&amp;reqdb.wmo=42182">
+		New Delhi Safdarjung
+		</a>
+	</span>
+<span class="station-type is-airport"></span>
+<span data-dropdown="subnav-dropdown"><i class="fi-list"></i></span>
+<span> - October, 2011</span>
+<span>Mean Temperature</span>
+<span class="wx-data"><span class="wx-value">86</span><span class="wx-unit"> °F</span></span>
+<span class="wx-value">86</span>
+<span class="wx-unit"> °F</span>
+<span>Max Temperature</span>
+<span class="wx-data"><span class="wx-value">94</span><span class="wx-unit"> °F</span></span>
+<span class="wx-value">94</span>
+<span class="wx-unit"> °F</span>
+<span class="wx-data"><span class="wx-value">87</span><span class="wx-unit"> °F</span></span>
+<span class="wx-value">87</span>
+<span class="wx-unit"> °F</span>
+<span>Min Temperature</span>
+<span class="wx-data"><span class="wx-value">77</span><span class="wx-unit"> °F</span></span>
+<span class="wx-value">77</span>
+<span class="wx-unit"> °F</span>
+<span class="wx-data"><span class="wx-value">66</span><span class="wx-unit"> °F</span></span>
+<span class="wx-value">66</span>
+<span class="wx-unit"> °F</span>
+<span>Cooling Degree Days</span>
+<span>Growing Degree Days</span>
+<span>Dew Point</span>
+<span class="wx-data"><span class="wx-value">69</span><span class="wx-unit"> °F</span></span>
+<span class="wx-value">69</span>
+<span class="wx-unit"> °F</span>
+<span>Average Humidity</span>
+<span>Maximum Humidity</span>
+<span>Minimum Humidity</span>
+<span>Precipitation</span>
+<span class="wx-data"><span class="wx-value">0.00</span><span class="wx-unit"> in</span></span>
+<span class="wx-value">0.00</span>
+<span class="wx-unit"> in</span>
+<span class="wx-data"><span class="wx-value">0.02</span><span class="wx-unit"> in</span></span>
+<span class="wx-value">0.02</span>
+<span class="wx-unit"> in</span>
+<span>Sea Level Pressure</span>
+<span class="wx-data"><span class="wx-value">29.69</span><span class="wx-unit"> in</span></span>
+<span class="wx-value">29.69</span>
+<span class="wx-unit"> in</span>
+<span>Wind Speed</span>
+<span class="wx-data"><span class="wx-value">4</span><span class="wx-unit"> mph</span></span>
+<span class="wx-value">4</span>
+<span class="wx-unit"> mph</span>
+<span>Max Wind Speed</span>
+<span class="wx-data"><span class="wx-value">14</span><span class="wx-unit"> mph</span></span>
+<span class="wx-value">14</span>
+<span class="wx-unit"> mph</span>
+<span>Max Gust Speed</span>
+<span>Visibility</span>
+<span class="wx-data"><span class="wx-value">1.4</span><span class="wx-unit"> miles</span></span>
+<span class="wx-value">1.4</span>
+<span class="wx-unit"> miles</span>
+<span>Events</span>
+<span class="b">T</span>
+<span class="b">MM</span>
+<span class="b">Source:</span>
+<span class="wx-value">Waxing Crescent, 41</span>
+<span>Oct 3</span>
+<span>Oct 4</span>
+<span>Oct 12</span>
+<span>Oct 20</span>
+<span>Oct 27</span>
+<span class="nb">(IST)</span>
+<span class="wx-data"><span class="wx-value">77</span><span class="wx-unit"> °F</span></span>
+<span class="wx-value">77</span>
+<span class="wx-unit"> °F</span>
+<span class="wx-data"><span class="wx-value">70</span><span class="wx-unit"> °F</span></span>
+<span class="wx-value">70</span>
+<span class="wx-unit"> °F</span>
+<span class="wx-data"><span class="wx-value">29.68</span><span class="wx-unit"> in</span></span>
+<span class="wx-value">29.68</span>
+<span class="wx-unit"> in</span>
+<span class="wx-data"><span class="wx-value">1</span><span class="wx-unit"> mi</span></span>
+<span class="wx-value">1</span>
+<span class="wx-unit"> mi</span>
+<span class="wx-data"><span class="wx-value">4.6</span><span class="wx-unit"> mph</span></span>
+<span class="wx-value">4.6</span>
+<span class="wx-unit"> mph</span>
+<span class="wx-data"><span class="wx-value">77</span><span class="wx-unit"> °F</span></span>
+<span class="wx-value">77</span>
+<span class="wx-unit"> °F</span>
+<span class="wx-data"><span class="wx-value">63</span><span class="wx-unit"> °F</span></span>
+<span class="wx-value">63</span>
+<span class="wx-unit"> °F</span>
+<span class="wx-data"><span class="wx-value">29.70</span><span class="wx-unit"> in</span></span>
+<span class="wx-value">29.70</span>
+<span class="wx-unit"> in</span>
+<span class="wx-data"><span class="wx-value">1</span><span class="wx-unit"> mi</span></span>
+<span class="wx-value">1</span>
+<span class="wx-unit"> mi</span>
+<span class="wx-data"><span class="wx-value">6.9</span><span class="wx-unit"> mph</span></span>
+<span class="wx-value">6.9</span>
+<span class="wx-unit"> mph</span>
+<span class="wx-data"><span class="wx-value">89</span><span class="wx-unit"> °F</span></span>
+<span class="wx-value">89</span>
+<span class="wx-unit"> °F</span>
+<span class="wx-data"><span class="wx-value">66</span><span class="wx-unit"> °F</span></span>
+<span class="wx-value">66</span>
+<span class="wx-unit"> °F</span>
+<span class="wx-data"><span class="wx-value">29.74</span><span class="wx-unit"> in</span></span>
+<span class="wx-value">29.74</span>
+<span class="wx-unit"> in</span>
+<span class="wx-data"><span class="wx-value">2</span><span class="wx-unit"> mi</span></span>
+<span class="wx-value">2</span>
+<span class="wx-unit"> mi</span>
+<span class="wx-data"><span class="wx-value">13.8</span><span class="wx-unit"> mph</span></span>
+<span class="wx-value">13.8</span>
+<span class="wx-unit"> mph</span>
+<span class="wx-data"><span class="wx-value">93</span><span class="wx-unit"> °F</span></span>
+<span class="wx-value">93</span>
+<span class="wx-unit"> °F</span>
+<span class="wx-data"><span class="wx-value">67</span><span class="wx-unit"> °F</span></span>
+<span class="wx-value">67</span>
+<span class="wx-unit"> °F</span>
+<span class="wx-data"><span class="wx-value">29.68</span><span class="wx-unit"> in</span></span>
+<span class="wx-value">29.68</span>
+<span class="wx-unit"> in</span>
+<span class="wx-data"><span class="wx-value">2</span><span class="wx-unit"> mi</span></span>
+<span class="wx-value">2</span>
+<span class="wx-unit"> mi</span>
+<span class="wx-data"><span class="wx-value">6.9</span><span class="wx-unit"> mph</span></span>
+<span class="wx-value">6.9</span>
+<span class="wx-unit"> mph</span>
+<span class="wx-data"><span class="wx-value">91</span><span class="wx-unit"> °F</span></span>
+<span class="wx-value">91</span>
+<span class="wx-unit"> °F</span>
+<span class="wx-data"><span class="wx-value">70</span><span class="wx-unit"> °F</span></span>
+<span class="wx-value">70</span>
+<span class="wx-unit"> °F</span>
+<span class="wx-data"><span class="wx-value">29.65</span><span class="wx-unit"> in</span></span>
+<span class="wx-value">29.65</span>
+<span class="wx-unit"> in</span>
+<span class="wx-data"><span class="wx-value">2</span><span class="wx-unit"> mi</span></span>
+<span class="wx-value">2</span>
+<span class="wx-unit"> mi</span>
+<span class="wx-data"><span class="wx-value">2.3</span><span class="wx-unit"> mph</span></span>
+<span class="wx-value">2.3</span>
+<span class="wx-unit"> mph</span>
+<span class="wx-data"><span class="wx-value">82</span><span class="wx-unit"> °F</span></span>
+<span class="wx-value">82</span>
+<span class="wx-unit"> °F</span>
+<span class="wx-data"><span class="wx-value">73</span><span class="wx-unit"> °F</span></span>
+<span class="wx-value">73</span>
+<span class="wx-unit"> °F</span>
+<span class="wx-data"><span class="wx-value">29.70</span><span class="wx-unit"> in</span></span>
+<span class="wx-value">29.70</span>
+<span class="wx-unit"> in</span>
+<span class="wx-data"><span class="wx-value">1</span><span class="wx-unit"> mi</span></span>
+<span class="wx-value">1</span>
+<span class="wx-unit"> mi</span>
+<span class="wx-data"><span class="wx-value">79</span><span class="wx-unit"> °F</span></span>
+<span class="wx-value">79</span>
+<span class="wx-unit"> °F</span>
+<span class="wx-data"><span class="wx-value">74</span><span class="wx-unit"> °F</span></span>
+<span class="wx-value">74</span>
+<span class="wx-unit"> °F</span>
+<span class="wx-data"><span class="wx-value">29.70</span><span class="wx-unit"> in</span></span>
+<span class="wx-value">29.70</span>
+<span class="wx-unit"> in</span>
+<span class="wx-data"><span class="wx-value">1</span><span class="wx-unit"> mi</span></span>
+<span class="wx-value">1</span>
+<span class="wx-unit"> mi</span>
